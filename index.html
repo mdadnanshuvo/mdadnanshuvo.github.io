@@ -2,11 +2,18 @@
 layout: default
 published: true
 ---
-<head>
-  <meta name="google-site-verification" content="I30ScUHyUiZ9BsvzaUEiJ6Xjo2La9tM6tqfW396atS4" />
-  </head>
-
-<div class="posts">
+<html>
+  <head>
+    <meta name="google-site-verification" content="I30ScUHyUiZ9BsvzaUEiJ6Xjo2La9tM6tqfW396atS4" />
+    <title>
+      Welcome to my blog
+      </title>
+    </head>
+  
+  <body>
+    <p>Hi Everone!</p>
+    
+    <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -20,3 +27,7 @@ published: true
     </article>
   {% endfor %}
 </div>
+    </body>
+  </html>
+
+
