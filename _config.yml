@@ -6,11 +6,10 @@
 name: Shuvo's Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: .NET Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://cdn.pixabay.com/photo/2017/01/10/23/01/code-1970468_960_720.png
 #
 # Flags below are optional
 #
@@ -21,11 +20,11 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: 
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
