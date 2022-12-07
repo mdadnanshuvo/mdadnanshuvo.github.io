@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+I am Mohammad Adnan Shuvo, a Software Developer, passionate about technologies and love to code and solve real world problems. 
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
