@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width = device-width initial-scale = 1.0">
+	<title>
+		Contact Me
+	</title>
+	<link rel="stylesheet" type="text/css" href="form.css">
+</head>
+<body>
+
+
+
+<div class="container">
+	<form onsubmit="event.preventDefault(); validateForm()" action="form.php" method="post">
+		<h2 id="success"></h2>
+		<h3>
+			Get In Touch
+		</h3>
+		
+		<input type="text" id = "name" placeholder="Your Name" >
+		<p class="error"></p>
+       
+        
+        
+		<input type="email" id = "email" placeholder="Email ID" ><br>
+		<p>
+		<p class="error"></p>
+        </p>
+		
+
+		<textarea id="message" rows="4" placeholder="Please write your message here"></textarea>
+		<small class="error"></small>
+
+		
+		
+		<button type="submit">Send</button>
+		
+		
+
+	</form>
+</div>
+
+<script  src="form.js"></script>
+
+
+
+   
+</body>
+</html>
