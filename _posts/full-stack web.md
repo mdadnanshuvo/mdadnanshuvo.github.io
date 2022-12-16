@@ -14,7 +14,7 @@ The combination of both the Front-End (Client-Side) and Back-End (Server-Side) i
 
 Now let's discuss how to be a full-stack web developer and what programming languages, frameworks or technologies should be learned for being a magnificent full-stack web developer.
 
-First of all, let's start with the Front-End or Client-Side part.
+First of all, let's start with the Front-End or Client-Side development.
 
 ![]({{site.baseurl}}/https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg)
 
