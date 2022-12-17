@@ -6,7 +6,7 @@ published: true
 
 
 
-![]({{site.baseurl}}/_posts/1.png)![1.png]({{site.baseurl}}/_posts/1.png)
+![_config.yml]({{ site.baseurl }}/images/1.png)
 
 
 
