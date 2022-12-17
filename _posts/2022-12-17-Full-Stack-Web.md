@@ -1,14 +1,11 @@
 ---
 published: true
 ---
-![_config.yml]({{ site.baseurl }}/images/1.png)
-
-
 
 ## What is full stack  web development and how to be a full stack developer?
 
 
-
+![_config.yml]({{ site.baseurl }}/images/1.png)
 
 
 
