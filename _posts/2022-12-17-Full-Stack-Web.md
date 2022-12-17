@@ -1,12 +1,13 @@
 ---
 published: true
 ---
+![_config.yml]({{ site.baseurl }}/images/1.png)
+
+
+
 ## What is full stack  web development and how to be a full stack developer?
 
 
-
-
-![_config.yml]({{ site.baseurl }}/images/1.png)
 
 
 
@@ -33,7 +34,7 @@ First of all, let's start with the Front-End or Client-Side development.
 
 
 
-![2.jpg]({{site.baseurl}}/_posts/2.jpg)
+![_config.yml]({{ site.baseurl }}/images/2.jpg)
 
 
 
@@ -79,7 +80,7 @@ Now let's explore some popular and widely used back-end or server-side technolog
 
 
 
-![3.jpg]({{site.baseurl}}/_posts/3.jpg)
+![_config.yml]({{ site.baseurl }}/images/3.jpg)
 
 
 
@@ -130,7 +131,7 @@ Till now, we discussed some common languages for front-end and back-end. Now let
 
 
 
-![4.png]({{site.baseurl}}/_posts/4.png)
+![_config.yml]({{ site.baseurl }}/images/4.png)
 
 
 
@@ -193,7 +194,7 @@ Now let's discuss some popular database options for web applications
 
 
 
-![5.jpg]({{site.baseurl}}/_posts/5.jpg)
+![_config.yml]({{ site.baseurl }}/images/5.jpg)
 
 
 
